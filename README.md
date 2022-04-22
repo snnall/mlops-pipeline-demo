@@ -1,4 +1,4 @@
-##  Welcome to MLOps pipeline project using Amazon SageMaker Pipelines
+##  Welcome to demo MLOps pipeline project using Amazon SageMaker Pipelines
 
 This project utilizes SageMaker Pipelines that offers machine learning (ML) application developers and operations engineers the ability to orchestrate SageMaker jobs and author reproducible ML pipelines. It enables users to deploy custom-build models for batch and real-time inference with low latency and track lineage of artifacts.
 
